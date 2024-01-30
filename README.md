@@ -1,1 +1,1 @@
-# Bài tập đầu tiền liên quan đến github
+# Bài tập đầu tiên liên quan đến github
